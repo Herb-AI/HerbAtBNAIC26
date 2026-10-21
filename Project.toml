@@ -1,0 +1,14 @@
+name = "BNAIC2026"
+authors = ["Reuben Gardos Reid <5456207+ReubenJ@users.noreply.github.com>"]
+
+[deps]
+Herb = "c09c6b7f-4f63-49de-90d9-97a3563c0f4a"
+HerbBenchmarks = "eadf8b74-d38a-4b1a-a063-8d36e493d376"
+HerbSearch = "3008d8e8-f9aa-438a-92ed-26e9c7b4829f"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
+[compat]
+Herb = "1.0.0"
+HerbBenchmarks = "0.2.3"
+HerbSearch = "1.0.2"
+Pluto = "1.0.4"
