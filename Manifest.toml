@@ -189,9 +189,7 @@ version = "1.0.1"
 
 [[deps.HerbSearch]]
 deps = ["DataStructures", "DocStringExtensions", "HerbConstraints", "HerbCore", "HerbGrammar", "HerbInterpret", "HerbSpecification", "MLStyle", "Random", "Sockets", "StatsBase", "TimerOutputs"]
-git-tree-sha1 = "5b83bf81f9c7df7ceed327c5051618d432008f3c"
-repo-rev = "viz/inspector"
-repo-url = "https://github.com/Herb-AI/HerbSearch.jl.git"
+path = "HerbSearchWithViz"
 uuid = "3008d8e8-f9aa-438a-92ed-26e9c7b4829f"
 version = "1.0.2"
 
