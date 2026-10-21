@@ -151,9 +151,7 @@ version = "1.0.0"
 
 [[deps.HerbBenchmarks]]
 deps = ["DocStringExtensions", "HerbCore", "HerbGrammar", "HerbInterpret", "HerbSpecification", "JSON", "MLStyle", "ParserCombinator", "Random", "RuntimeGeneratedFunctions"]
-git-tree-sha1 = "80c2b48bd460e03a56abe1c46383c6cfee061871"
-repo-rev = "add_dreamcoder"
-repo-url = "https://github.com/Herb-AI/HerbBenchmarks.jl"
+path = "HerbBenchmarks"
 uuid = "eadf8b74-d38a-4b1a-a063-8d36e493d376"
 version = "0.2.3"
 
